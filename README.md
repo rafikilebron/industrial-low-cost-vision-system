@@ -26,7 +26,7 @@ README.md
 
 # 🎥 Demo
 
-https://github.com/user-attachments/assets/video
+[▶ Watch the complete demonstration](./media/demo.mp4)
 
 ---
 
