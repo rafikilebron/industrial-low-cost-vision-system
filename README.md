@@ -11,6 +11,7 @@ For a detailed explanation of the **computer vision tools**, please refer to the
 
 ```
 docs/
+├── screenshots/
 └── VISION_TOOLS.md
 
 media/
@@ -360,15 +361,15 @@ Current cycle time can be visualized at the top right corner. The system does no
 
 # 📈 Results
 
-✅ Approximately **70% lower cost** than comparable commercial industrial vision systems.
+- Approximately **70% lower cost** than comparable commercial industrial vision systems.
+- Achieved a low-cost solution without compromising performance.
+- Average cycle time measured in laboratory conditions: 200 ms (1 AI tool and 1 BLOB analysis tool).
 
-✅ Real-time image processing.
+✅ The project was presented to BMG-7AM’s CEO, BMG’s Global CEO, and machine vision experts in Germany, receiving approval and positive feedback for its technical implementation and business impact.
 
-✅ Modular architecture for rapid feature integration.
+[View LinkedIn Post](https://lnkd.in/p/enADEpBR)
 
-✅ Machine learning support.
-
-✅ Industrial-grade graphical interface.
+<img src="./media/global-ceos-visit.jpeg" width="900"/>
 
 ---
 
