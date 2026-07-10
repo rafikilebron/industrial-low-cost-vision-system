@@ -183,68 +183,6 @@ Provides interactive Region of Interest (ROI) widgets used to define inspection 
 - Resize ROIs with drag handles
 - Store ROI position and dimensions
 
-
-
-```
-Industrial Vision System
-
-│
-
-├── GUI
-│   ├── Login
-│   ├── Home
-│   ├── Program Manager
-│   ├── Vision Tools
-│   ├── Statistics
-│   └── Settings
-│
-├── Camera Module
-│
-├── Image Processing Module
-│
-├── Machine Learning Module
-│
-├── GPIO Controller
-│
-├── SQLite Database
-│
-├── User Management
-│
-└── Background Threads
-```
-
----
-
-# 🔄 Inspection Pipeline
-
-```
-Capture Image
-      │
-      ▼
-Image Enhancement
-      │
-      ▼
-ROI Extraction
-      │
-      ▼
-Image Processing
-      │
-      ▼
-Feature Extraction
-      │
-      ▼
-Machine Learning
-      │
-      ▼
-Classification
-      │
-      ▼
-GPIO Output
-      │
-      ▼
-Database Logging
-```
-
 ---
 
 # 🖥 GUI Overview
@@ -355,7 +293,7 @@ Current cycle time can be visualized at the top right corner. The system does no
 
 <img src="./media/screenshots/trigger-evaluation1.jpg" width="900"/>
 
-<img src="./media/screenshots/trigger-evaluation12.jpg" width="900"/>
+<img src="./media/screenshots/trigger-evaluation2.jpg" width="900"/>
 
 ---
 
