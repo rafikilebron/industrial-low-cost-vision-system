@@ -1,4 +1,4 @@
-# 🔍 Industrial Vision System for Automated Inspection
+# 🔍 Industrial Low-Cost Vision System
 
 Today, most vision solutions are very expensive, costing thousands of dollars. In the automotive industry, these systems are widely used for simple vision tasks, like presence & absence detection.
 
